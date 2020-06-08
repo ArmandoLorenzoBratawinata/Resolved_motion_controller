@@ -1,0 +1,9 @@
+<library path="lib/libresolved_motion_controller">
+  <class name="effort_controllers/ResolvedMotionController"
+    type="effort_controllers::ResolvedMotionController"
+    base_class_type="controller_interface::ControllerBase">
+    <description>
+      blablabal
+    </description>
+  </class>
+</library>
